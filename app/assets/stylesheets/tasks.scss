@@ -1,0 +1,30 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family: "Arial";
+  color: #666666;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  vertical-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+
+.check-box {
+  margin-right: 16px;
+
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+
+}
